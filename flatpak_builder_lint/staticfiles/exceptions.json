@@ -1448,6 +1448,7 @@
             "finish-args-freedesktop-dbus-talk-name": "Predates the linter rule"
         }
     },
+    "io.github.runningwithrottweilers.XArchThemeStudio": {"*": {"appid-url-not-reachable": "The official public source repository is https://github.com/runningwithrottweilers/xarch-theme-studio. The application ID uses XArchThemeStudio, while the repository uses the hyphenated name xarch-theme-studio."}},
     "io.github.sharkwouter.Minigalaxy": {
         "*": {
             "flathub-json-automerge-enabled": "Predates the linter rule"
